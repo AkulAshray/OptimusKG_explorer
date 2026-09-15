@@ -1,0 +1,9 @@
+optimuskg==1.0.0
+polars==1.44.2
+matplotlib==3.11.2
+networkx==3.6.1
+duckdb==1.5.5
+pyarrow==25.0.1
+nbformat==5.11.1
+jupyterlab>=4.4,<5
+pytest==9.1.1
