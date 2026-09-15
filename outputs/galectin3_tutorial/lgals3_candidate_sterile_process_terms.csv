@@ -1,0 +1,4 @@
+neighbor_id,neighbor_name,relation,include_in_module,review_reason,status
+GO_0002376,immune system process,INTERACTS_WITH,false,"",keyword candidate; not yet biologically reviewed
+GO_0045087,innate immune response,INTERACTS_WITH,false,"",keyword candidate; not yet biologically reviewed
+GO_0048246,macrophage chemotaxis,INTERACTS_WITH,false,"",keyword candidate; not yet biologically reviewed

@@ -1,0 +1,157 @@
+gene_id,gene_name,shared_processes,gene_processes,lgals3_processes,jaccard_similarity
+ENSG00000179409,gem nuclear organelle associated protein 4,2,4,27,0.06896551724137931
+ENSG00000074201,chloride nucleotide-sensitive channel 1A,2,7,27,0.0625
+ENSG00000125835,small nuclear ribonucleoprotein polypeptides B and B1,2,7,27,0.0625
+ENSG00000204475,natural cytotoxicity triggering receptor 3,2,8,27,0.06060606060606061
+ENSG00000013725,CD6 molecule,2,11,27,0.05555555555555555
+ENSG00000135316,synaptotagmin binding cytoplasmic RNA interacting protein,2,11,27,0.05555555555555555
+ENSG00000135404,CD63 molecule,2,16,27,0.04878048780487805
+ENSG00000164509,interleukin 31 receptor A,2,19,27,0.045454545454545456
+ENSG00000149177,protein tyrosine phosphatase receptor type J,3,45,27,0.043478260869565216
+ENSG00000139370,solute carrier family 15 member 4,2,21,27,0.043478260869565216
+ENSG00000169896,integrin subunit alpha M,2,28,27,0.03773584905660377
+ENSG00000138398,peptidylprolyl isomerase G,1,2,27,0.03571428571428571
+ENSG00000143226,Fc gamma receptor IIa,1,6,27,0.03125
+ENSG00000138279,annexin A7,1,6,27,0.03125
+ENSG00000196628,transcription factor 4,1,7,27,0.030303030303030304
+ENSG00000105392,cone-rod homeobox,1,8,27,0.029411764705882353
+ENSG00000158270,collectin subfamily member 12,1,8,27,0.029411764705882353
+ENSG00000104852,small nuclear ribonucleoprotein U1 subunit 70,1,9,27,0.02857142857142857
+ENSG00000170017,activated leukocyte cell adhesion molecule,1,10,27,0.027777777777777776
+ENSG00000173546,chondroitin sulfate proteoglycan 4,1,11,27,0.02702702702702703
+ENSG00000168961,galectin 9,2,52,27,0.025974025974025976
+ENSG00000213949,integrin subunit alpha 1,1,13,27,0.02564102564102564
+ENSG00000100097,galectin 1,1,13,27,0.02564102564102564
+ENSG00000198925,autophagy related 9A,1,14,27,0.025
+ENSG00000116954,Ras related GTP binding C,1,25,27,0.0196078431372549
+ENSG00000072274,transferrin receptor,1,34,27,0.016666666666666666
+ENSG00000058668,ATPase plasma membrane Ca2+ transporting 4,1,35,27,0.01639344262295082
+ENSG00000124813,RUNX family transcription factor 2,1,47,27,0.0136986301369863
+ENSG00000102145,GATA binding protein 1,1,48,27,0.013513513513513514
+ENSG00000168036,catenin beta 1,3,207,27,0.012987012987012988
+ENSG00000087245,matrix metallopeptidase 2,1,53,27,0.012658227848101266
+ENSG00000146648,epidermal growth factor receptor,1,54,27,0.0125
+ENSG00000150093,integrin subunit beta 1,1,76,27,0.00980392156862745
+ENSG00000196388,"inhibitor of CDK, cyclin A1 interacting protein 1",0,6,27,0.0
+ENSG00000170571,embigin,0,5,27,0.0
+ENSG00000157212,PAX interacting protein 1,0,16,27,0.0
+ENSG00000170248,programmed cell death 6 interacting protein,0,23,27,0.0
+ENSG00000140199,solute carrier family 12 member 6,0,13,27,0.0
+ENSG00000005022,solute carrier family 25 member 5,0,15,27,0.0
+ENSG00000034971,myocilin,0,20,27,0.0
+ENSG00000142687,KIAA0319 like,0,7,27,0.0
+ENSG00000064651,solute carrier family 12 member 2,0,33,27,0.0
+ENSG00000185499,"mucin 1, cell surface associated",0,6,27,0.0
+ENSG00000181143,"mucin 16, cell surface associated",0,1,27,0.0
+ENSG00000111897,serine incorporator 1,0,5,27,0.0
+ENSG00000107882,SUFU negative regulator of hedgehog signaling,0,20,27,0.0
+ENSG00000179295,protein tyrosine phosphatase non-receptor type 11,0,64,27,0.0
+ENSG00000163399,ATPase Na+/K+ transporting subunit alpha 1,0,30,27,0.0
+ENSG00000011028,mannose receptor C-type 2,0,3,27,0.0
+ENSG00000163564,pyrin and HIN domain family member 1,0,10,27,0.0
+ENSG00000109572,chloride voltage-gated channel 3,0,15,27,0.0
+ENSG00000147246,5-hydroxytryptamine receptor 2C,0,21,27,0.0
+ENSG00000049540,elastin,0,11,27,0.0
+ENSG00000156535,CD109 molecule,0,9,27,0.0
+ENSG00000198689,solute carrier family 9 member A6,0,13,27,0.0
+ENSG00000089289,immunoglobulin binding protein 1,0,10,27,0.0
+ENSG00000164171,integrin subunit alpha 2,0,40,27,0.0
+ENSG00000081087,osteoclastogenesis associated transmembrane protein 1,0,2,27,0.0
+ENSG00000070770,casein kinase 2 alpha 2,0,14,27,0.0
+ENSG00000113504,solute carrier family 12 member 7,0,11,27,0.0
+ENSG00000168003,solute carrier family 3 member 2,0,17,27,0.0
+ENSG00000203737,G protein-coupled receptor 52,0,7,27,0.0
+ENSG00000116815,CD58 molecule,0,6,27,0.0
+ENSG00000184402,SS18L1 subunit of BAF chromatin remodeling complex,0,5,27,0.0
+ENSG00000068120,Coenzyme A synthase,0,1,27,0.0
+ENSG00000026103,Fas cell surface death receptor,0,20,27,0.0
+ENSG00000134198,tetraspanin 2,0,6,27,0.0
+ENSG00000033867,solute carrier family 4 member 7,0,14,27,0.0
+ENSG00000164889,solute carrier family 4 member 2,0,17,27,0.0
+ENSG00000112769,laminin subunit alpha 4,0,5,27,0.0
+ENSG00000132906,caspase 9,0,29,27,0.0
+ENSG00000075429,calcium voltage-gated channel auxiliary subunit gamma 5,0,7,27,0.0
+ENSG00000125257,ATP binding cassette subfamily C member 4 (PEL blood group),0,17,27,0.0
+ENSG00000196187,transmembrane protein 63A,0,5,27,0.0
+ENSG00000018510,alkylglycerone phosphate synthase,0,3,27,0.0
+ENSG00000171916,galectin 9C,0,3,27,0.0
+ENSG00000171155,C1GALT1 specific chaperone 1,0,3,27,0.0
+ENSG00000173706,heart development protein with EGF like domains 1,0,26,27,0.0
+ENSG00000197965,myelin protein zero like 1,0,2,27,0.0
+ENSG00000119616,FCF1 rRNA-processing protein,0,5,27,0.0
+ENSG00000108523,ring finger protein 167,0,16,27,0.0
+ENSG00000133703,"KRAS proto-oncogene, GTPase",0,33,27,0.0
+ENSG00000115414,fibronectin 1,0,30,27,0.0
+ENSG00000127080,inositol-pentakisphosphate 2-kinase,0,3,27,0.0
+ENSG00000055955,inter-alpha-trypsin inhibitor heavy chain 4,0,3,27,0.0
+ENSG00000168077,scavenger receptor class A member 3,0,3,27,0.0
+ENSG00000177058,solute carrier family 38 member 9,0,9,27,0.0
+ENSG00000064547,lysophosphatidic acid receptor 2,0,6,27,0.0
+ENSG00000178623,G protein-coupled receptor 35,0,6,27,0.0
+ENSG00000001561,ectonucleotide pyrophosphatase/phosphodiesterase 4,0,4,27,0.0
+NCBIGene:148808,GEN,0,0,27,0.0
+ENSG00000263001,general transcription factor IIi,0,3,27,0.0
+ENSG00000089177,kinesin family member 16B,0,12,27,0.0
+ENSG00000162104,adenylate cyclase 9,0,7,27,0.0
+ENSG00000197249,serpin family A member 1,0,3,27,0.0
+ENSG00000099624,ATP synthase F1 subunit delta,0,8,27,0.0
+ENSG00000141510,tumor protein p53,0,143,27,0.0
+ENSG00000087303,nidogen 2,0,3,27,0.0
+ENSG00000084674,apolipoprotein B,0,34,27,0.0
+ENSG00000133657,ATPase 13A3,0,5,27,0.0
+ENSG00000105568,protein phosphatase 2 scaffold subunit Aalpha,0,18,27,0.0
+ENSG00000138376,BRCA1 associated RING domain 1,0,21,27,0.0
+ENSG00000113441,leucyl and cystinyl aminopeptidase,0,10,27,0.0
+ENSG00000085563,ATP binding cassette subfamily B member 1,0,62,27,0.0
+ENSG00000081237,protein tyrosine phosphatase receptor type C,0,69,27,0.0
+ENSG00000121410,alpha-1-B glycoprotein,0,1,27,0.0
+ENSG00000197471,sialophorin,0,25,27,0.0
+ENSG00000152894,protein tyrosine phosphatase receptor type K,0,15,27,0.0
+ENSG00000003989,solute carrier family 7 member 2,0,8,27,0.0
+ENSG00000101680,laminin subunit alpha 1,0,17,27,0.0
+ENSG00000117298,endothelin converting enzyme 1,0,25,27,0.0
+ENSG00000134575,"acid phosphatase 2, lysosomal",0,2,27,0.0
+ENSG00000108679,galectin 3 binding protein,0,4,27,0.0
+ENSG00000159216,RUNX family transcription factor 1,0,27,27,0.0
+ENSG00000014216,calpain 1,0,8,27,0.0
+ENSG00000198121,lysophosphatidic acid receptor 1,0,33,27,0.0
+ENSG00000132470,integrin subunit beta 4,0,18,27,0.0
+ENSG00000205352,proline rich 13,0,0,27,0.0
+ENSG00000146555,sidekick cell adhesion molecule 1,0,6,27,0.0
+ENSG00000134247,prostaglandin F2 receptor inhibitor,0,2,27,0.0
+ENSG00000110169,hemopexin,0,10,27,0.0
+ENSG00000135898,G protein-coupled receptor 55,0,8,27,0.0
+ENSG00000083750,Ras related GTP binding B,0,9,27,0.0
+ENSG00000118137,apolipoprotein A1,0,55,27,0.0
+ENSG00000170417,transmembrane protein 182,0,5,27,0.0
+ENSG00000155850,solute carrier family 26 member 2,0,6,27,0.0
+ENSG00000124067,solute carrier family 12 member 4,0,10,27,0.0
+ENSG00000102882,mitogen-activated protein kinase 3,0,70,27,0.0
+ENSG00000240021,testis expressed 35,0,0,27,0.0
+ENSG00000001167,nuclear transcription factor Y subunit alpha,0,6,27,0.0
+ENSG00000186907,reticulon 4 receptor like 2,0,5,27,0.0
+ENSG00000128567,podocalyxin like,0,10,27,0.0
+ENSG00000112234,F-box and leucine rich repeat protein 4,0,5,27,0.0
+ENSG00000174233,adenylate cyclase 6,0,16,27,0.0
+ENSG00000170385,solute carrier family 30 member 1,0,20,27,0.0
+ENSG00000113712,casein kinase 1 alpha 1,0,25,27,0.0
+ENSG00000037280,fms related receptor tyrosine kinase 4,0,27,27,0.0
+ENSG00000138031,adenylate cyclase 3,0,11,27,0.0
+ENSG00000175899,alpha-2-macroglobulin,0,2,27,0.0
+ENSG00000101266,casein kinase 2 alpha 1,0,34,27,0.0
+ENSG00000143322,"ABL proto-oncogene 2, non-receptor tyrosine kinase",0,19,27,0.0
+ENSG00000145358,DNA damage inducible transcript 4 like,0,1,27,0.0
+ENSG00000037749,microfibril associated protein 3,0,0,27,0.0
+ENSG00000204520,MHC class I polypeptide-related sequence A,0,0,27,0.0
+ENSG00000106278,protein tyrosine phosphatase receptor type Z1,0,13,27,0.0
+ENSG00000100985,matrix metallopeptidase 9,0,27,27,0.0
+ENSG00000091513,transferrin,0,13,27,0.0
+ENSG00000122778,KIAA1549,0,0,27,0.0
+ENSG00000097007,"ABL proto-oncogene 1, non-receptor tyrosine kinase",0,130,27,0.0
+ENSG00000171791,BCL2 apoptosis regulator,0,157,27,0.0
+ENSG00000167110,golgin A2,0,17,27,0.0
+ENSG00000069188,sidekick cell adhesion molecule 2,0,5,27,0.0
+ENSG00000091136,laminin subunit beta 1,0,16,27,0.0
+ENSG00000147316,microcephalin 1,0,11,27,0.0
+ENSG00000008282,synaptophysin like 1,0,1,27,0.0
+ENSG00000229314,orosomucoid 1,0,8,27,0.0
