@@ -1,11 +1,4 @@
 """Progressive exploration layer for OptimusKG and project snapshots.
-
-The snapshot API used by the validated Tab 3 path audit is retained. Version
-0.4 adds a live, deliberately incremental API on top of the official
-``optimuskg`` client: no node or edge table is downloaded until the user asks
-for it, and loaded tables can be activated, deactivated, or removed from the
-current analytical graph. It also supports evidence-aware neighbourhood
-inspection and portable CSV, Parquet, and DuckDB exports.
 """
 
 from __future__ import annotations

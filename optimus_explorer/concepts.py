@@ -2,8 +2,7 @@
 
 The functions in this module operate on the deliberately scoped Parquet
 snapshot used by the project.  They preserve node and relationship types and
-make query limits visible.  They are exploratory helpers, not causal or
-clinical inference methods.
+make query limits visible.  They are exploratory helpers only
 """
 
 from __future__ import annotations
